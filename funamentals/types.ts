@@ -10,6 +10,7 @@ console.log('n2 = ' + n2 + ' Type of n2 = ' + typeof(n2));
 
 let str1:string;
 str1 = "Mahesh";
+
 console.log('str1 = ' + str1 + ' Type of str1 = ' + typeof(str1));
 
 let val; // default to 'any' data type
